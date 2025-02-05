@@ -43,4 +43,4 @@ Puedes instalar los requerimientos utilizando el archivo `requirements.txt`.
 
 ## Contribuciones
 
-Las contribuciones son bienvenidas, si deseas contribuir, realiza un *fork* del repositorio y envía un *pull request* con tus cambios.
+Las contribuciones son bienvenidas, si deseas contribuir, realiza un *fork* del repositorio y envia un *pull request* con tus cambios.
